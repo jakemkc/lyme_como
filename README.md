@@ -1,7 +1,7 @@
 # Systematic comparisons between Lyme disease and post-treatment Lyme disease syndrome in the U.S. with administrative claims data
 
 ## Cover art
-<img src="https://github.com/jakemkc/exposome_variability/blob/master/R_function/chord_2_samples.png">
+<img src="https://github.com/jakemkc/lyme_como/blob/main/cover/042123%20Github.jpg">
 
 ## Authors
 - Ming Kei (Jake) Chung
