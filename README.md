@@ -1,6 +1,7 @@
 # Systematic comparisons between Lyme disease and post-treatment Lyme disease syndrome in the U.S. with administrative claims data
 
-## Cover Art Candidate
+## Cover Art 
+Created by artist Ms Hoi Yan CHUNG, Claire for this study
 <img src="https://github.com/jakemkc/lyme_como/blob/main/cover/042123%20Github.jpg">
 
 ## Authors
